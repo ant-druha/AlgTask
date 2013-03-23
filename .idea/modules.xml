@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorythms.iml" filepath="$PROJECT_DIR$/Algorythms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTreeApp/BTreeApp.iml" filepath="$PROJECT_DIR$/BTreeApp/BTreeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphApp/GraphApp.iml" filepath="$PROJECT_DIR$/GraphApp/GraphApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeapSortApp/HeapSortApp.iml" filepath="$PROJECT_DIR$/HeapSortApp/HeapSortApp.iml" />
+    </modules>
+  </component>
+</project>
+
