@@ -19,7 +19,7 @@ public class BTreeAppMain {
         //int[] iArrDell = {0,1,-3,-57};
         int[] iArrDell = {5};
 
-        System.out.println("test");
+        System.out.println("test test3");
         BTree b2 = new BTree();
         BTree b3 = new BTree();
         for (int i=0; i<iArrAdd.length; i++){
