@@ -7,7 +7,7 @@ package com.avalon.mylabs.HeapSort;
  * Time: 17:40
  * To change this template use File | Settings | File Templates.
  */
-public class _HeapSort<T extends Comparable<T>> {
+public class _HeapSort<T extends Comparable<T>> { 
 
     //============ Template =================
     private void downHeap(T[] a, int k, int n) {
